@@ -8,6 +8,6 @@
 <a href="https://github.com/devalbertt/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devalbertt&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/devalbertt/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devalbertt&repo=convoychat" />
 </a>
