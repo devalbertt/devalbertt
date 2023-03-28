@@ -6,6 +6,5 @@
 ![Albert GitHub stats](https://github-readme-stats.vercel.app/api?username=devalbertt&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbert&hide_progress=true)](https://github.com/devalbert/github-readme-stats)
 <a href="https://github.com/devalbert/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devalbert&repo=github-readme-stats" />
-</a>
+  
 
