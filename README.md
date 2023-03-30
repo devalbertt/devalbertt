@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+Albert;I'm+18+years+old;I+from+Brasil,+SSA;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devalbertt&bg_color=000000&color=00bfbf&line=00bfbf&point=#DCDCDC&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Igor Albert github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devalbertt&bg_color=000000&color=00bfbf&line=00bfbf&point=#DCDCDC&area=true&hide_border=true)](https://github.com/devalbertt/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devalbertt&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
