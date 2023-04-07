@@ -24,6 +24,9 @@
 ### Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/9k6fUjtVV4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igucomsono) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-albert1) 
 
+![Snake animation](https://github.com/FragaInDev/FragaInDev/blob/output/github-contribution-grid-snake.svg)
+ </div>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devalbertt}/count.svg" /></p> 
