@@ -1,16 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+Albert;I'm+18+years+old;I+from+Brasil,+SSA;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+Albert;I'm+18+years+old;I+from+Brasil,+SSA;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Igor Albert github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devalbertt&bg_color=000000&color=00bfbf&line=00bfbf&point=#DCDCDC&area=true&hide_border=true)](https://github.com/devalbertt/github-readme-activity-graph)
+[![Igor Albert github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=devalbertt&bg_color=000000&color=9900ff&line=6151bd&point=8400ff&area=true&hide_border=true)](https://github.com/devalbertt/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devalbertt&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devalbertt&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Igor Albert github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertt&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devalbertt&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=7B68EE&text_color=7B68EE&bg_color=000000" alt="Igor Albert github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertt&layout=compact&hide_border=true&title_color=8A2BE2&text_color=7B68EE&bg_color=000000" />
 </div>
 
 ### Tools:
@@ -33,4 +33,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
