@@ -8,11 +8,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=devalbertt&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devalbertt&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=7B68EE&text_color=7B68EE&bg_color=000000" alt="Igor Albert github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertt&layout=compact&hide_border=true&title_color=8A2BE2&text_color=7B68EE&bg_color=000000" />
-</div>
-
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
