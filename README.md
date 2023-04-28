@@ -6,7 +6,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalbertt&hide_progress=true)](https://github.com/devalbertt/github-readme-stats)
 
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=devalbertt&theme=tokyonight&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
